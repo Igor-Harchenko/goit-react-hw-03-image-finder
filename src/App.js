@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Spinner from "./components/Loader/Loader";
 import toast, { Toaster } from "react-hot-toast";
-
 import fetchImages from "./API/Api";
 import SearchBar from "./components/Searchbar/Searchbar";
 import Btn from "./components/Button/Button";
